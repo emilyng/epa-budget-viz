@@ -1,3 +1,3 @@
 # epa-budget-viz
 
-run `python app.py` to see visualizations
+run `python app.py` in terminal to see visualizations
